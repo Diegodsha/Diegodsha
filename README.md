@@ -1,6 +1,4 @@
-<p align="center">
 ![brunch](https://user-images.githubusercontent.com/70416006/106317253-aa99ea80-6233-11eb-94ed-8fd6910d8760.png)
-</p>
 
 <h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
 
