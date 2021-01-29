@@ -2,10 +2,10 @@
 
 <h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
 
-  My name is Diego Hernández
+  **My name is Diego Hernández 
+I'm a 25 year old guy on an intention to enhance as a successful full-stack web developer. I enjoy Coding challenges, love learning new tecnologies and building web-sites. I love to share my resources and expertise with the dev community. I have remote work experience with devs from all over the world
   
-  I’m currently working on becoming a full-stack web developer and have remote work experience with devs 
-  from all over the world'
+  
   
 ```javascript
 const diegoHernandez = {
@@ -22,7 +22,7 @@ const diegoHernandez = {
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
-      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180">
+      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
 </h3>
 
  
@@ -42,9 +42,9 @@ const diegoHernandez = {
 </p>
 
 
-<p align="center">
+<p align="center" >
   
-   **Let's get in touch**     
+   **Find me on the web**     
 </p>
 
   
