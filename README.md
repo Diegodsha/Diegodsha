@@ -2,12 +2,18 @@
 
 <h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
 
+<hr>
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
+
+<hr>
+
+
 **My name is Diego Hernández 
 -I'm a 25 year old guy on an intention to enhance as a successful full-stack web developer.
 -I enjoy Coding challenges, love learning new tecnologies and building web-sites.
 -I love to share my resources and expertise with the dev community.
 -I have remote work experience with devs from all over the world**
-  
   
   
 ```javascript
@@ -21,13 +27,12 @@ const diegoHernandez = {
   loveMoreThanCode: "My husky called Milan"
 }
 ```
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
-
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
-      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
+      
 </h3>
+<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px" align="rigth">
 
  
 
@@ -48,7 +53,7 @@ const diegoHernandez = {
 
 <p align="center" >
   
-   **Find me on the web**     
+  **Find me on the web**     
 </p>
 
   
@@ -59,12 +64,12 @@ const diegoHernandez = {
       <a href="https://www.linkedin.com/in/diegoshdezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
 
-<hr>
-<hr>
+<br>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=truetheme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -74,3 +79,4 @@ const diegoHernandez = {
       <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"></a>
 </p>
+-->
