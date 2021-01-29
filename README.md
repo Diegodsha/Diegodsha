@@ -72,7 +72,6 @@ const diegoHernandez = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -82,4 +81,3 @@ const diegoHernandez = {
       <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"></a>
 </p>
--->
