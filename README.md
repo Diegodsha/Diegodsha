@@ -1,6 +1,6 @@
 
 
-<h1> Hi there 👋 Good to see you over here... <iframe src="https://giphy.com/embed/Vbtc9VG51NtzT1Qnv1" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1">via GIPHY</a></p></h1>
+<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="60"></h1>
 
   My name is Diego Hernández
   
@@ -22,10 +22,10 @@ const diegoHernandez = {
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
-     
+      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="60">
 </h3>
 
- <iframe src="https://giphy.com/embed/11ISwbgCxEzMyY" width="500" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-11ISwbgCxEzMyY">via GIPHY</a></p>
+ 
 
 
 <h2 align="center"> 
