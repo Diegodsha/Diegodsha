@@ -62,7 +62,8 @@ const diegoHernandez = {
 <hr>
 <hr>
 ## My Github Status 🦸
-![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Diegodsha=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center" style="display: inline;">
