@@ -1,6 +1,6 @@
 
 
-<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="60"></h1>
+<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
 
   My name is Diego Hernández
   
@@ -22,7 +22,7 @@ const diegoHernandez = {
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
-      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="60">
+      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180">
 </h3>
 
  
