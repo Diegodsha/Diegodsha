@@ -1,21 +1,31 @@
 
 
-# Hi there 👋 Good to see you over here...
-
+<h1> Hi there 👋 Good to see you over here... <iframe src="https://giphy.com/embed/Vbtc9VG51NtzT1Qnv1" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1">via GIPHY</a></p></h1>
 
   My name is Diego Hernández
-
-  I’m currently working on becoming a full-stack web developer
   
-- Looking for new oppurtunities
-
-- ⚡ Fun fact: I'll could beat you on racing games, let's play
+  I’m currently working on becoming a full-stack web developer and have remote work experience with devs 
+  from all over the world'
+  
+```javascript
+const diegoHernandez = {
+  lookingFor: "Full-stack web developer opportunities",
+  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "HTML/CSS", "Bootstrap"],
+  loveTo: "Code"
+  letsTalkAbout: [["Motorcycles", "F1","Racing" ], "Electronic music", "DeliciousFood"],
+  goal: "Be accountable and a remarcable team-leader",
+  funFacts: [I love racing videogames, let's see if you can beat me],
+  loveMoreThanCode: "My husky called Milan"
+}
+```
 
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
      
 </h3>
+
+ <iframe src="https://giphy.com/embed/11ISwbgCxEzMyY" width="500" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mrw-11ISwbgCxEzMyY">via GIPHY</a></p>
 
 
 <h2 align="center"> 
