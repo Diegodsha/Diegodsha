@@ -2,7 +2,9 @@
 
 <hr>
 
-<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150" style="border-radius: 50%;"></h1>
+<h1 align='center'> Hi there 👋 Good to see you over here...</h1>
+
+<div align='center'> <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150" style="border-radius: 50%;"></div>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
 
