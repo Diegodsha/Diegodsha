@@ -141,7 +141,7 @@ const diegoHernandez = {
       <a href="https://twitter.com/diegohdezchimo"><img src="https://img.shields.io/twitter/follow/diegohdezchimo?style=social"></a>
       <a href="https://www.linkedin.com/in/diegoshdezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
-[![Hotmail Badge](https://img.shields.io/badge/-Outlook-15AB89?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:diegodsha@hotmail.com)](mailto:diegodsha@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Outlook-15AB89?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:sandro.alex_@hotmail.com)](mailto:sandro.alex_@hotmail.com)
 
 
 
