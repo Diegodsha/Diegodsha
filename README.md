@@ -15,6 +15,8 @@
   <li>I love to share my resources and expertise with the dev community.</li>
   <li>I have remote work experience with devs from all over the world</li>
 </ul>
+
+  <br>
   
 ```javascript
 const diegoHernandez = {
@@ -27,6 +29,7 @@ const diegoHernandez = {
   loveMoreThanCode: "My husky called Milan"
 }
 ```
+<br>
 
 <h3 align="center">
      THESE ARE SOME OF MY PROJECTS
@@ -37,7 +40,7 @@ const diegoHernandez = {
      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
       
 </div>
-
+<br>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -51,7 +54,7 @@ const diegoHernandez = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 
 </p>
-
+<br>
 
 <p align="center">
       <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed Clone</a> -
