@@ -9,12 +9,12 @@
   
 ```javascript
 const diegoHernandez = {
-  lookingFor: "Full-stack web developer opportunities",
-  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "HTML/CSS", "Bootstrap"],
-  loveTo: "Code"
-  letsTalkAbout: [["Motorcycles", "F1","Racing" ], "Electronic music", "DeliciousFood"],
-  goal: "Be accountable and a remarcable team-leader",
-  funFacts: [I love racing videogames, let's see if you can beat me],
+  lookingFor: "Full-stack web developer",
+  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "Bootstrap"],
+  loveTo: "Code",
+  letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
+  goal: "Turn into a remarcable team-leader and project manager",
+  funFact: "If you can beat me on a racing game I'll buy you  a coffee",
   loveMoreThanCode: "My husky called Milan"
 }
 ```
@@ -44,10 +44,7 @@ const diegoHernandez = {
 
 <p align="center">
   
-   **Let's get in touch**
-  
- 👤 **Diego Hernández**
-     
+   **Let's get in touch**     
 </p>
 
   
