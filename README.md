@@ -2,8 +2,11 @@
 
 <h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
 
-  **My name is Diego Hernández 
-I'm a 25 year old guy on an intention to enhance as a successful full-stack web developer. I enjoy Coding challenges, love learning new tecnologies and building web-sites. I love to share my resources and expertise with the dev community. I have remote work experience with devs from all over the world
+**My name is Diego Hernández 
+-I'm a 25 year old guy on an intention to enhance as a successful full-stack web developer.
+-I enjoy Coding challenges, love learning new tecnologies and building web-sites.
+-I love to share my resources and expertise with the dev community.
+-I have remote work experience with devs from all over the world**
   
   
   
