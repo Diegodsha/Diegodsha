@@ -10,8 +10,8 @@
 
 <ul>
   <li>My name is Diego Hernández </li>
-  <li>I'm a 25 year old guy on an intention to enhance as a successful full-stack web developer.</li>
-  <li>I enjoy Coding challenges, love learning new tecnologies and building web-sites.</li>
+  <li>I'm a 25 year old guy with an intention to enhance as a successful full-stack web developer.</li>
+  <li>I enjoy Coding challenges, love learning new technologies and building websites.</li>
   <li>I love to share my resources and expertise with the dev community.</li>
   <li>I have remote work experience with devs from all over the world</li>
 </ul>
