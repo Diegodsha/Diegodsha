@@ -21,6 +21,7 @@ const diegoHernandez = {
   loveMoreThanCode: "My husky called Milan"
 }
 ```
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
 
 
 <h3 align="center">
@@ -60,6 +61,9 @@ const diegoHernandez = {
 
 <hr>
 <hr>
+## My Github Status 🦸
+![](https://github-readme-stats.vercel.app/api?username=Diegodsha&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
 
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
