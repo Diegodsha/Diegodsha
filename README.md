@@ -32,12 +32,11 @@ const diegoHernandez = {
      THESE ARE SOME OF MY PROJECTS
       
 </h3>
-<picture align="center">
-<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
-  
-  </picture>
 
- 
+<div align="center">
+     <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
+      
+</div>
 
 
 <h2 align="center"> 
