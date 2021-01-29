@@ -35,6 +35,14 @@ const diegoHernandez = {
      THESE ARE SOME OF MY PROJECTS
       
 </h3>
+<br>
+<br>
+<p align="center">
+      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed website</a> -
+      <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
+      <a href="https://memelopez.github.io/microV-project1/">NY Times website</a> -
+     
+</p>
 
 <div align="center">
      <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
@@ -43,7 +51,7 @@ const diegoHernandez = {
 <br>
 
 
-<table>
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -52,8 +60,8 @@ const diegoHernandez = {
 </td>
 
 <td align="center" width="20%">
-<span><b><center>CSS3</center></b></span> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<span><b><center>JavaScript</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </td>
 
 <td align="center" width="20%">
@@ -86,8 +94,8 @@ const diegoHernandez = {
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -98,13 +106,13 @@ const diegoHernandez = {
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>Bootstrap</center></b></span> 
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<span><b><center>CSS3</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </td>
 
 <td align="center" width="20%">
@@ -119,24 +127,13 @@ const diegoHernandez = {
 
 
 <br>
-
-<p align="center">
-      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed website</a> -
-      <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
-      <a href="https://memelopez.github.io/microV-project1/">NY Times website</a> -
-     
-</p>
-
 <br>
 
 
-<h3 align="center">
-     FIND ME ON THE WEB
-      
-</h3>
+<h3 align="center">FIND ME ON THE WEB</h3>
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
+<br>
   
 
 <p align="center" style="display: inline;">
