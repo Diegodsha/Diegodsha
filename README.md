@@ -140,9 +140,9 @@ const diegoHernandez = {
       <a href="https://github.com/Diegodsha?tab=followers"><img src="https://img.shields.io/github/followers/Diegodsha?label=Follow%20me&style=social"></a>
       <a href="https://twitter.com/diegohdezchimo"><img src="https://img.shields.io/twitter/follow/diegohdezchimo?style=social"></a>
       <a href="https://www.linkedin.com/in/diegoshdezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
-</p>
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+      <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 
+</p>
 
 
 
