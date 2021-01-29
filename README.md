@@ -81,8 +81,7 @@ const diegoHernandez = {
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)]
 <!-- more icons
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
