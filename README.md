@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/70416006/106317253-aa99ea80-6233-11eb-94ed-8fd6910d8760.png" width="1000">
 
-<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150"></h1>
-
 <hr>
+
+<h1> Hi there 👋 Good to see you over here... <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150" style="border-radius: 50%;"></h1>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
 
@@ -32,7 +32,10 @@ const diegoHernandez = {
      THESE ARE SOME OF MY PROJECTS
       
 </h3>
-<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px" align="rigth">
+<picture align="center">
+<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="180" style="border-radius: 6px">
+  
+  </picture>
 
  
 
@@ -51,10 +54,10 @@ const diegoHernandez = {
 </p>
 
 
-<p align="center" >
-  
-  **Find me on the web**     
-</p>
+<h3 align="center">
+     FIND ME ON THE WEB
+      
+</h3>
 
   
 
