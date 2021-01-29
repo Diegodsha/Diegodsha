@@ -141,6 +141,7 @@ const diegoHernandez = {
       <a href="https://twitter.com/diegohdezchimo"><img src="https://img.shields.io/twitter/follow/diegohdezchimo?style=social"></a>
       <a href="https://www.linkedin.com/in/diegoshdezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
       <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
+      <a href="https://www.instagram.com/diego.shagui/"><img src="https://img.shields.io/badge/-Instagram-c13584 style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>
 
 </p>
 
