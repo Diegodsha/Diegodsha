@@ -8,26 +8,18 @@
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
 
-<hr>
-
-<ul>
-  <li>My name is Diego Hernández </li>
-  <li>I'm a 25 year old guy with an intention to enhance as a successful full-stack web developer.</li>
-  <li>I enjoy Coding challenges, love learning new technologies and building websites.</li>
-  <li>I love to share my resources and expertise with the dev community.</li>
-  <li>I have remote work experience with devs from all over the world</li>
-</ul>
-
   <br>
   
 ```javascript
-const diegoHernandez = {
+const webDeveloper = {
+  name:"My name is Diego Hernández",
+  goal: "I'm a 25 year old guy with an intention to enhance as a successful full-stack web developer.",
   lookingFor: "Full-stack web developer",
-  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "Bootstrap"],
-  loveTo: "Code",
+  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "Bootstrap","SQL"],
+  loveTo: "I enjoy Coding challenges, love learning new technologies and building websites.",
   letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
-  goal: "Turn into a remarcable team-leader and project manager",
-  funFact: "If you can beat me on a racing game I'll buy you  a coffee",
+  exp:"I have remote work experience with devs from all over the world",
+  funFact: "If you can beat me on a racing game I'll buy you a coffee",
   loveMoreThanCode: "My husky called Milan"
 }
 ```
