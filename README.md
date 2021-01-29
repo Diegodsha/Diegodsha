@@ -41,34 +41,101 @@ const diegoHernandez = {
       
 </div>
 <br>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 
-</p>
+
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS3</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Ror</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Redux</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Bootstrap</center></b></span> 
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Ruby</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
 <br>
 
 <p align="center">
-      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed Clone</a> -
-      <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb Clone</a> -
-      <a href="https://memelopez.github.io/microV-project1/">NY Times Clone</a> -
+      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed website</a> -
+      <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
+      <a href="https://memelopez.github.io/microV-project1/">NY Times website</a> -
      
 </p>
 
 <br>
 
+
 <h3 align="center">
      FIND ME ON THE WEB
       
 </h3>
+
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
   
 
