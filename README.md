@@ -13,7 +13,7 @@
 ```javascript
 const webDeveloper = {
   name:"My name is Diego Hernández",
-  goal: "I'm a 25 year old guy with an intention to enhance as a successful full-stack web developer.",
+  goal: "I'm a 25 year old industrial engineer with an intention to enhance as a successful full-stack web developer.",
   lookingFor: "Full-stack web developer",
   code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "Bootstrap","SQL"],
   loveTo: "I enjoy Coding challenges, love learning new technologies and building websites.",
@@ -32,7 +32,7 @@ const webDeveloper = {
 <br>
 <br>
 <p align="center">
-      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newskeed website</a> -
+      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newsweek website</a> -
       <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
       <a href="https://memelopez.github.io/microV-project1/">NY Times website</a> -
      
