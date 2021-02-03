@@ -32,6 +32,7 @@ const webDeveloper = {
 <br>
 <br>
 <p align="center">
+       <a href="https://diegodsha.github.io/Online-shop-for-motorcycle-accessories-/index.html">Online Shop</a> -
       <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newsweek website</a> -
       <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
       <a href="https://memelopez.github.io/microV-project1/">NY Times website</a> -
