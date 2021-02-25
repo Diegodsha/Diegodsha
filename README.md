@@ -13,13 +13,14 @@
 ```javascript
 const webDeveloper = {
   name:"My name is Diego Hernández",
-  goal: "I'm a 25 year old industrial engineer with an intention to enhance as a successful full-stack web developer.",
-  lookingFor: "Full-stack web developer",
-  code: ["JavaScript", "React", "Redux", "Ruby", "RoR", "Bootstrap","SQL"],
-  loveTo: "I enjoy Coding challenges, love learning new technologies and building websites.",
+  goal: "I'm a 25 year old coding aficionado with an intention to enhance as a successful full-stack web developer.",
+  lookingFor: "Full-stack web developer", "Front-end web developer",
+  frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap", ],
+  backEnd:["Ruby", "Rails", "MySQL"]
+  loveTo: "I love working on different projects whilst learning new technologies.",
   letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
-  exp:"I have remote work experience with devs from all over the world",
-  funFact: "If you can beat me on a racing game I'll buy you a coffee",
+  experience:"Remote pair-programming with devs from all over the world",
+  funFact: "If you can beat me on a racing video-game I'll buy you a coffee",
   loveMoreThanCode: "My husky called Milan"
 }
 ```
@@ -109,43 +110,29 @@ const webDeveloper = {
 <span><b><center>CSS3</center></b></span> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </td>
-
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </td>
 </tr>
-
 </tbody>
 </table>
-
-
-
 <br>
 <br>
-
-
 <h3 align="center">FIND ME ON THE WEB</h3>
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <br>
-  
-
 <p align="center" style="display: inline;">
       <a href="https://github.com/Diegodsha?tab=followers"><img src="https://img.shields.io/github/followers/Diegodsha?label=Follow%20me&style=social"></a>
       <a href="https://twitter.com/diegohdezchimo"><img src="https://img.shields.io/twitter/follow/diegohdezchimo?style=social"></a>
       <a href="https://www.linkedin.com/in/diegoshdezaguilar/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
       <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
       <a href="https://www.instagram.com/diego.shagui/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>
-
 </p>
-
-
-
 <br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)]
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodsha&count_private=true&show_icons=true&theme=dark)<span>   </span>![Diego's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegodsha&theme=dark)
 <!-- more icons
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
