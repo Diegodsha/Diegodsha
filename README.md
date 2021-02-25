@@ -14,12 +14,12 @@
 const webDeveloper = {
   name:"My name is Diego Hernández",
   goal: "I'm a 25 year old coding aficionado with an intention to enhance as a successful full-stack web developer.",
-  lookingFor: "Full-stack web developer", "Front-end web developer",
-  frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap", ],
-  backEnd:["Ruby", "Rails", "MySQL"]
+  lookingFor: ["Full-stack web developer", "Front-end web developer"],
+  frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap"],
+  backEnd:["Ruby", "Rails", "MySQL"],
   loveTo: "I love working on different projects whilst learning new technologies.",
   letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
-  experience:"Remote pair-programming with devs from all over the world",
+  experience:"Remote pair-programming with international developers.",
   funFact: "If you can beat me on a racing video-game I'll buy you a coffee",
   loveMoreThanCode: "My husky called Milan"
 }
