@@ -114,7 +114,6 @@ const webDeveloper = {
 <br>
 <h3 align="center">FIND ME ON THE WEB</h3>
 <br>
-<div class="LI-profile-badge" align="center" data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="diegoshdezaguilar"><a class="LI-simple-link" href='https://mx.linkedin.com/in/diegoshdezaguilar/en-us?trk=profile-badge'>Diego Salvador Hernández Aguilar</a></div>
 <p align="center" style="display: inline;">
       <a href="https://github.com/Diegodsha?tab=followers"><img src="https://img.shields.io/github/followers/Diegodsha?label=Follow%20me&style=social"></a>
       <a href="https://twitter.com/diegohdezchimo"><img src="https://img.shields.io/twitter/follow/diegohdezchimo?style=social"></a>
