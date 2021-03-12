@@ -19,7 +19,7 @@ const webDeveloper = {
   frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap"],
   backEnd:["Ruby", "Rails", "MySQL"],
   loveTo: "I love working on different projects whilst learning new technologies",
-  letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
+  letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood", "WorkingOut"],
   experience:"Remote pair-programming with international developers",
   funFact: "If you can beat me on a racing video-game I'll buy you a coffee",
   loveMoreThanCode: "My husky called Milan"
