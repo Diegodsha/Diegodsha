@@ -1,25 +1,26 @@
-<img src="https://user-images.githubusercontent.com/70416006/106317253-aa99ea80-6233-11eb-94ed-8fd6910d8760.png" width="1000">
-
+<!--<img src="https://user-images.githubusercontent.com/70416006/106317253-aa99ea80-6233-11eb-94ed-8fd6910d8760.png" width="1000"> -->
+<p align='center'><img  src="https://media.giphy.com/media/GbjsRl43wpf3foZDIl/giphy.gif" width="1000" height="400" ></p>
 <hr>
 
-<h1 align='center'> Hi there 👋 Good to see you over here...</h1>
+<!--<h1 align='center'> Hi there 👋 Good to see you over here...</h1> -->
+<h1 align='center'> Yes... I'm the one in the gif up here 🤓 and yes... I'm hacking NASA with HTML & CSS 👾</h1>
 
-<div align='center'> <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150" style="border-radius: 50%;"></div>
+<!--<div align='center'><img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150" style="border-radius: 50%;"></div>-->
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></p>
+<h3 align='center'>Let's keep growing... <img src='https://visitor-badge.laobi.icu/badge?page_id=Diegodsha'></h3>
 
   <br>
   
 ```javascript
 const webDeveloper = {
   name:"My name is Diego Hernández",
-  goal: "I'm a 25 year old coding aficionado with an intention to enhance as a successful full-stack web developer.",
+  goal: "I'm a 25 year old coding aficionado with an intention to enhance as a successful full-stack web developer",
   lookingFor: ["Full-stack web developer", "Front-end web developer"],
   frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap"],
   backEnd:["Ruby", "Rails", "MySQL"],
-  loveTo: "I love working on different projects whilst learning new technologies.",
+  loveTo: "I love working on different projects whilst learning new technologies",
   letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood"],
-  experience:"Remote pair-programming with international developers.",
+  experience:"Remote pair-programming with international developers",
   funFact: "If you can beat me on a racing video-game I'll buy you a coffee",
   loveMoreThanCode: "My husky called Milan"
 }
