@@ -12,12 +12,12 @@
   <br>
   
 ```javascript
-const webDeveloper = {
+const softwareDeveloper = {
   name:"My name is Diego Hernández",
   goal: "I'm a 25 year old coding aficionado with an intention to enhance as a successful full-stack web developer",
   lookingFor: ["Full-stack web developer", "Front-end web developer"],
-  frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap"],
-  backEnd:["Ruby", "Rails", "MySQL"],
+  frontEnd: ["JavaScript", "React", "Redux", "SASS", "CSS3", "Bootstrap", "Gsap"],
+  backEnd:["Ruby", "Rails", "SQL"],
   loveTo: "I love working on different projects whilst learning new technologies",
   letsTalkAbout: [["Motorcycles", "F1","Racing" ], "ElectronicMusic", "DeliciousFood", "WorkingOut"],
   experience:"Remote pair-programming with international developers",
@@ -38,13 +38,16 @@ const webDeveloper = {
 </div>
 <br>
 <p align="center">
+      <a href="https://github.com/Diegodsha/Medical-pager-chat-front">Medical Pager</a> -
+      <a href="https://github.com/Diegodsha/Find-your-hotel">SQUARE</a> -
+      <a href="https://github.com/Diegodsha/FMDb">FMDb</a> -
       <a href="https://github.com/Diegodsha/Flappy-owl">Flappy Owl game</a> -
       <a href="https://github.com/Diegodsha/HAYESER">Weather App</a> -
       <a href="https://github.com/Diegodsha/Save-Your-Money">Save Your Money App</a> -
       <a href="https://github.com/Diegodsha/World-Covid-19-tracker-">Covid-19 Global Live Tracker</a> -
       <a href="https://github.com/Diegodsha/Tic-tac-toe">Tic-Tac-Toe Game</a> -
       <a href="https://github.com/Diegodsha/Ruby-Enumerables">Ruby Enumerable methods</a> -
-       <a href="https://diegodsha.github.io/Online-shop-for-motorcycle-accessories-/index.html">Online Motorcycle Shop</a> -
+      <a href="https://diegodsha.github.io/Online-shop-for-motorcycle-accessories-/index.html">Motorcycle Shop</a> -
       <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newsweek website</a> -
       <a href="https://diegodsha.github.io/HTML-CSS-Project-2-Responsive-Design/">Nextweb website</a> -
       <a href="https://memelopez.github.io/microV-project1/">NY Times website</a>  
